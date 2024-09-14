@@ -1,3 +1,9 @@
+## my $a = 5; declares a scalar variable $a and assigns it the value 5.
+## my $b = 10; declares another scalar variable $b and assigns it the value 10.
+## my $sum = $a + $b; declares a third scalar variable $sum and assigns it the result of the addition of $a and $b, which is 15.
+## print "$sum\n"; prints the value of $sum followed by a newline character (\n)
+
+
 #Arithmetic
 my $a = 5;
 my $b = 10;
