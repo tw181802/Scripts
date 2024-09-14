@@ -1,3 +1,8 @@
+//I added a using System; directive to import the System namespace, which provides the Console class.
+//I wrapped the code in a class Program block, which is the standard way to define a C# program.
+//I added the static void Main(string[] args) method, which is the entry point for the program. This is where the program starts execution.
+
+
 //Arithmetic
 using System;
 class Program
